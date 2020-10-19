@@ -1,14 +1,14 @@
 ### Warm welcome on my profile!
 
-#### Looking after a position:
-* __As:__ Software - web developer | Angular, Java, ...
+#### Seeking a role as:
+* __As:__ Software - web developer | Angular, Java, Spring, Git ...
 * __In:__ British Columbia, Canada
 * __Me?__ Many projects built but low professional experience
 * __But__ highly motivated and I learn fast
 * __Interested in__ distributed systems, cryptography, ...
 
-My __LinkedIn__ link's and email are on your left, feel free to reach out to me.
-
+Feel free to reach out to me: [LinkedIn](http://linked.in/bastiendecorte) - [Email](bastiendct@gmail.com)  
+  
 #### 👷‍♂ Under construction:
 * [Ronin - Chrome extension](https://github.com/bo0st3r/Ronin_Chrome_Extension)
 
