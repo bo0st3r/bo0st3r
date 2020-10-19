@@ -1,4 +1,18 @@
-### Hi there 👋
+### Warm welcome on my profile!
+
+#### Looking after a position:
+* __As:__ Software - web developer | Angular, Java, ...
+* __In:__ British Columbia, Canada
+* __Me?__ Many projects built but low professional experience
+* __But__ highly motivated and I learn fast
+* __Interested in__ distributed systems, cryptography, ...
+
+My __LinkedIn__ link's and email are on your left, feel free to reach out to me.
+
+#### 👷‍♂ Under construction:
+* [Ronin - Chrome extension](https://github.com/bo0st3r/Ronin_Chrome_Extension)
+
+
 
 <!--
 **bo0st3r/bo0st3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
