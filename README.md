@@ -3,8 +3,8 @@
 #### Seeking a role as:
 * __As:__ Software - web developer | Angular, Java, Spring, Git ...
 * __In:__ British Columbia, Canada
-* __Me?__ Many projects built but low professional experience
-* __But__ highly motivated and I learn fast
+* __Me?__ Built many projects and did an internship
+* __But__ highly motivated with a deep curiosity and I learn fast
 * __Interested in__ distributed systems, cryptography, ...
 
 Feel free to reach out to me: [LinkedIn](http://linked.in/bastiendecorte) - [Email](bastiendct@gmail.com)  
