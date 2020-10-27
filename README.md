@@ -7,7 +7,7 @@
 * __But__ highly motivated with a deep curiosity and I learn fast
 * __Interested in__ distributed systems, cryptography, ...
 
-Feel free to reach out to me: [LinkedIn](http://linked.in/bastiendecorte) - [Email](bastiendct@gmail.com)  
+Feel free to reach out to me: [LinkedIn](http://linked.in/bastiendecorte) - [Email](mailto:bastiendct@gmail.com)  
   
 #### 👷‍♂ Under construction:
 * [Ronin - Chrome extension](https://github.com/bo0st3r/Ronin_Chrome_Extension)
