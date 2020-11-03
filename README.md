@@ -1,16 +1,17 @@
-### Warm welcome on my profile!
+### Welcome! :)
 
-#### Seeking a role as:
-* __As:__ Software - web developer | Angular, Java, Spring, Git ...
-* __In:__ British Columbia, Canada
-* __Me?__ Built many projects and did an internship
-* __But__ highly motivated with a deep curiosity and I learn fast
-* __Interested in__ distributed systems, cryptography, ...
-
-Feel free to reach out to me: [LinkedIn](http://linked.in/bastiendecorte) - [Email](mailto:bastiendct@gmail.com)  
-  
 #### 👷‍♂ Under construction:
 * [Ronin - Chrome extension](https://github.com/bo0st3r/Ronin_Chrome_Extension)
+
+#### 🔎 Seeking a role as:
+* __As:__ Software/web developer | Angular, Java, Spring, Git ...
+* __In:__ British Columbia | Ontario, Canada
+* __Experience:__ Built many projects and did a front end developer internship
+* __Me:__ highly motivated, have a deep curiosity and I learn fast!
+* __Interested in__ full stack development, distributed systems, cryptography, ...
+
+Feel free to reach out to me: [LinkedIn](http://linked.in/bastiendecorte) - [Email](mailto:bastiendct@gmail.com)  
+
 
 
 
