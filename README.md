@@ -5,11 +5,12 @@
 
 #### 🔎 Seeking a role as:
 * __As:__ software/web developer | Angular, Java, Spring, ...
-* __In:__ Canada, Canada
+* __In:__ Canada
 * __Experience:__ built some projects and did a web developer internship at CGI
 * __Education:__ Bachelor’s Degree in Computer Science 
 * __Me:__ highly motivated, have a deep curiosity and learn quickly! 👯
 * __Interested in__ web development, distributed systems, cryptography, ...
+* __Speak__ English and French
 
 📫 Feel free to reach out to me: <a href="https://www.linkedin.com/in/bastiendecorte/"><img align="center" alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> - [Email](mailto:bastiendct@gmail.com)  
 
