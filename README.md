@@ -12,7 +12,8 @@
 * __Interested in__ web development, distributed systems, cryptography, ...
 * __Speak__ English and French
 
-📫 Feel free to reach out to me: <a href="https://www.linkedin.com/in/bastiendecorte/"><img align="center" alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> - [Email](mailto:bastiendct@gmail.com)  
+#### 📫 Feel free to reach out to me: 
+<a href="https://www.linkedin.com/in/bastiendecorte/"><img align="center" alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> - [Email](mailto:bastiendct@gmail.com)  
 
 
 
