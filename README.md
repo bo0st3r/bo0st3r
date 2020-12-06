@@ -1,9 +1,9 @@
-### Welcome! :)
+### Hello! :)
 
 #### 👷‍♂ Under construction:
 * [Ronin - Chrome extension](https://github.com/bo0st3r/Ronin_Chrome_Extension)
 
-#### 🔎 Seeking a role as:
+#### 🔎 Seeking a role:
 * __As:__ software/web developer | Angular, Java, Spring, ...
 * __In:__ Canada
 * __Experience:__ built some projects and did a web developer internship at CGI
