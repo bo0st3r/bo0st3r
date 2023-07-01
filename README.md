@@ -1,18 +1,19 @@
-### Hello! :)
+### 🔭 OPEN FOR WORK 🔭
 
-#### 👷‍♂ Under construction:
-* [Ronin - Chrome extension](https://github.com/bo0st3r/Ronin_Chrome_Extension)
+You've found the Github profile of a Full Stack Software Developer 3 living in Canada and interested in growing his coding skills, hooray!
+
+You're hiring? Read the following:
 
 #### 🔎 Seeking a role:
-* __As:__ software/web developer | Angular, Java, Spring, ...
-* __In:__ Canada
-* __Experience:__ built some projects and did a web developer internship at CGI
-* __Education:__ Bachelor’s Degree in Computer Science 
-* __Me:__ highly motivated, have a deep curiosity and learn quickly! 👯
-* __Interested in__ web development, distributed systems, cryptography, ...
-* __Speak__ English and French
+* __As:__ software developer | Node.js, TypeScript, Python, JavaScript, Angular, Docker, etc
+* __In:__ Canada, Montréal
+* __Education:__ Bachelor’s Degree in Computer Science (with Distinction)
+* __Experience:__ 2 years + as a Full Stack Software Developper 3, former Web Developer intern at CGI and I've contributed to several projects
+* __Me:__ highly motivated, have a profound curiosity and learn quickly! 👯
+* __Interested in__ backend development, distributed systems, cryptography, etc
+* __Speak__ English, French and basic Japanese
 
-#### 📫 Feel free to reach out to me: 
+#### 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/bastiendecorte/"><img align="center" alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> - [Email](mailto:bastiendct@gmail.com)  
 
 
