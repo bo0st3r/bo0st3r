@@ -8,7 +8,7 @@ You're hiring? Read the following:
 * __As:__ software developer | Node.js, TypeScript, Python, JavaScript, Angular, Docker, etc
 * __In:__ Canada, Montréal
 * __Education:__ Bachelor’s Degree in Computer Science (with Distinction)
-* __Experience:__ 2 years + as a Full Stack Software Developper 3, former Web Developer intern at CGI and I've contributed to several projects
+* __Experience:__ 3 years, currently a Full Stack Software Developper III, former Web Developer intern at CGI and I've contributed to several projects
 * __Me:__ highly motivated, have a profound curiosity and learn quickly! 👯
 * __Interested in__ backend development, distributed systems, cryptography, etc
 * __Speak__ English, French and basic Japanese
