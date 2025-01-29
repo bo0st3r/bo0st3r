@@ -12,11 +12,7 @@ Welcome to the profile of a Software Engineer (L3) with 4 years of experience, b
 - **Speak:** English, French, and conversational Japanese
 
 #### 📫 How to reach me:
-<a href="https://www.linkedin.com/in/bastiendct/">
-  <img align="center" alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a> 
-[Email](mailto:bastiendct@gmail.com)
-
+<a href="https://www.linkedin.com/in/bastiendct/"><img align="center" alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> - [bastiendct@gmail.com](mailto:bastiendct@gmail.com)  
 
 
 <!--
