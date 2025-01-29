@@ -1,20 +1,21 @@
 ### 🔭 OPEN FOR WORK 🔭
 
-You've found the Github profile of a Full Stack Software Developer III living in Canada and interested in growing his coding skills, hooray!
-
-You're hiring? Read the following:
+Welcome to the profile of a Software Engineer (L3) with 4 years of experience, based in Montréal, Canada. I specialize in backend development and have built AI- and Computer Vision-powered applications using Python, Node.js, and LangChain on AWS.
 
 #### 🔎 Seeking a role:
-* __As:__ software developer | Node.js, TypeScript, Python, JavaScript, Angular, Docker, etc
-* __In:__ Canada, Montréal
-* __Education:__ Bachelor’s Degree in Computer Science (with Distinction)
-* __Experience:__ 3 years, currently a Full Stack Software Developer III, former Web Developer intern at CGI and I've contributed to several projects
-* __Me:__ highly motivated, I'm profoundly curious and learn quickly! 👯
-* __Interested in__ backend development, distributed systems, cryptography, etc
-* __Speak__ English, French and basic Japanese
+- **As:** Backend Software Engineer | Python, TypeScript, Go (learning), Angular, Docker, AWS, etc.
+- **In:** Canada, Montréal
+- **Education:** Bachelor’s Degree in Computer Science (Distinction)
+- **Experience:** 4 years of backend-focused development; currently Software Engineer L3 at HalfSerious, former Web Developer intern at CGI
+- **Me:** Highly motivated, profoundly curious, and an avid quick-learner. My recent work includes end-to-end LLM-driven solutions, event-sourcing libraries, and Computer Vision microservices.
+- **Interested in:** Generative AI, distributed systems, learning Go and cryptography.
+- **Speak:** English, French, and conversational Japanese
 
-#### 📫 How to reach me: 
-<a href="https://www.linkedin.com/in/bastiendecorte/"><img align="center" alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> - [Email](mailto:bastiendct@gmail.com)  
+#### 📫 How to reach me:
+<a href="https://www.linkedin.com/in/bastiendct/">
+  <img align="center" alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a> 
+[Email](mailto:bastiendct@gmail.com)
 
 
 
