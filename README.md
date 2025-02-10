@@ -3,7 +3,7 @@
 Welcome to the profile of a Software Engineer (L3) with 4 years of experience, based in Montréal, Canada. I specialize in backend development and have built AI- and Computer Vision-powered applications using Python, Node.js, and LangChain on AWS.
 
 #### 🔎 Seeking a role:
-- **As:** Backend Software Engineer | Python, TypeScript, Go (learning), Angular, Docker, AWS, etc.
+- **As:** Backend Software Engineer | Python, Go (learning), AWS, Generative AI, Docker, Angular, TypeScript, etc.
 - **In:** Canada, Montréal
 - **Education:** Bachelor’s Degree in Computer Science (Distinction)
 - **Experience:** 4 years of backend-focused development; currently Software Engineer L3 at HalfSerious, former Web Developer intern at CGI
