@@ -1,12 +1,12 @@
 ### 🔭 OPEN FOR WORK 🔭
 
-Welcome to the profile of a Software Engineer (L3) with 4 years of experience, based in Montréal, Canada. I specialize in backend development and have built AI- and Computer Vision-powered applications using Python, Node.js, and LangChain on AWS.
+Welcome to my profile! I'm Bastien, a Software Engineer (L4) with 4 years of experience based in Montréal, Canada. I specialize in backend development and have built AI and Computer Vision-powered solutions using Python, Node.js, LangChain and AWS.
 
 #### 🔎 Seeking a role:
 - **As:** Backend Software Engineer | Python, Go (learning), AWS, Generative AI, Docker, Angular, TypeScript, etc.
-- **In:** Canada, Montréal
+- **In:** Canada, Montréal (Hybrid, Remote)
 - **Education:** Bachelor’s Degree in Computer Science (Distinction)
-- **Experience:** 4 years of backend-focused development; currently Software Engineer L3 at HalfSerious, former Web Developer intern at CGI
+- **Experience:** 4 years of backend-focused development; currently Software Engineer L4 at HalfSerious, former Web Developer intern at CGI
 - **Me:** Highly motivated, profoundly curious, and an avid quick-learner. My recent work includes end-to-end LLM-driven solutions, event-sourcing libraries, and Computer Vision microservices.
 - **Interested in:** Generative AI, distributed systems, learning Go and cryptography.
 - **Speak:** English, French, and conversational Japanese
